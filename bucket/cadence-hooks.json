@@ -1,13 +1,13 @@
 {
-    "version": "0.23.0",
+    "version": "0.25.0",
     "description": "Compiled Claude Code hooks for cadence, guardrails, rules, and obsidian plugins",
     "homepage": "https://github.com/cameronsjo/cadence-hooks",
     "license": "BSL-1.1",
     "notes": "Cadence's hooks dispatch through .sh wrappers that Claude Code runs via Git Bash on Windows. Install Git for Windows and keep bash on PATH, or the guards never fire.",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cameronsjo/cadence-hooks/releases/download/v0.23.0/cadence-hooks-v0.23.0-windows-x86_64.zip",
-            "hash": "6ff6d90e09057a23c8c5191d3a04b1ab7dd540e2244f376af6b1ef7020bcf1fa",
+            "url": "https://github.com/cameronsjo/cadence-hooks/releases/download/v0.25.0/cadence-hooks-v0.25.0-windows-x86_64.zip",
+            "hash": "850c55635f185fb32f1184d41fd3930688ef3a1cf94276965ed22ff72077af35",
             "bin": "cadence-hooks.exe"
         }
     },
